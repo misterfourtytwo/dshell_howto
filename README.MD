@@ -1,3 +1,5 @@
+### Update: package renamed to [dcli](https://pub.dev/packages/dcli)
+
 Guide from [Medium](https://medium.com/@bsutton.noojee/dshell-build-console-apps-in-dart-a2d8b76b13be)
 
 More details here:
